@@ -1,7 +1,31 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\naama\\source\\repos\\restaurant-orders-api\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC8C5CD-788D-43F0-BB07-D860A0D04573}|restaurant-orders-api.csproj|c:\\users\\naama\\source\\repos\\restaurant-orders-api\\migrations\\20260621104811_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BC8C5CD-788D-43F0-BB07-D860A0D04573}|restaurant-orders-api.csproj|solutionrelative:migrations\\20260621104811_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC8C5CD-788D-43F0-BB07-D860A0D04573}|restaurant-orders-api.csproj|c:\\users\\naama\\source\\repos\\restaurant-orders-api\\restaurant-orders-api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7BC8C5CD-788D-43F0-BB07-D860A0D04573}|restaurant-orders-api.csproj|solutionrelative:restaurant-orders-api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC8C5CD-788D-43F0-BB07-D860A0D04573}|restaurant-orders-api.csproj|c:\\users\\naama\\source\\repos\\restaurant-orders-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BC8C5CD-788D-43F0-BB07-D860A0D04573}|restaurant-orders-api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC8C5CD-788D-43F0-BB07-D860A0D04573}|restaurant-orders-api.csproj|c:\\users\\naama\\source\\repos\\restaurant-orders-api\\data\\restaurantdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BC8C5CD-788D-43F0-BB07-D860A0D04573}|restaurant-orders-api.csproj|solutionrelative:data\\restaurantdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC8C5CD-788D-43F0-BB07-D860A0D04573}|restaurant-orders-api.csproj|c:\\users\\naama\\source\\repos\\restaurant-orders-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7BC8C5CD-788D-43F0-BB07-D860A0D04573}|restaurant-orders-api.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +33,101 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20260621104811_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\naama\\source\\repos\\restaurant-orders-api\\Migrations\\20260621104811_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260621104811_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\naama\\source\\repos\\restaurant-orders-api\\Migrations\\20260621104811_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20260621104811_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T10:48:16.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\naama\\source\\repos\\restaurant-orders-api\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\naama\\source\\repos\\restaurant-orders-api\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T10:34:02.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "restaurant-orders-api.csproj",
+              "DocumentMoniker": "C:\\Users\\naama\\source\\repos\\restaurant-orders-api\\restaurant-orders-api.csproj",
+              "RelativeDocumentMoniker": "restaurant-orders-api.csproj",
+              "ToolTip": "C:\\Users\\naama\\source\\repos\\restaurant-orders-api\\restaurant-orders-api.csproj",
+              "RelativeToolTip": "restaurant-orders-api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-21T09:47:40.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Microsoft.NET.Sdk.DefaultItems.Shared.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets",
+              "ViewState": "AgIAAKsAAAAAAAAAAAD4v70AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-06-21T09:54:22.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RestaurantDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\naama\\source\\repos\\restaurant-orders-api\\Data\\RestaurantDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\RestaurantDbContext.cs",
+              "ToolTip": "C:\\Users\\naama\\source\\repos\\restaurant-orders-api\\Data\\RestaurantDbContext.cs",
+              "RelativeToolTip": "Data\\RestaurantDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T09:45:59.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\naama\\source\\repos\\restaurant-orders-api\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\naama\\source\\repos\\restaurant-orders-api\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-21T09:27:19.773Z",
+              "EditorCaption": ""
             }
           ]
         }
