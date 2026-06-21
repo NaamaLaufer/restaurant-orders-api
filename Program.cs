@@ -4,7 +4,8 @@ using restaurant_orders_api.Data;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-
+builder.Services.AddScoped<restaurant_orders_api.Repositories.IOrderRepository, restaurant_orders_api.Repositories.OrderRepository>();
+builder.Services.AddScoped<restaurant_orders_api.Services.IOrderService, restaurant_orders_api.Services.OrderService>();
 builder.Services.AddControllers();
 builder.Services.AddAutoMapper(cfg => { }, typeof(Program)); 
 builder.Services.AddScoped<restaurant_orders_api.Repositories.IDishRepository, restaurant_orders_api.Repositories.DishRepository>();
