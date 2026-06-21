@@ -3,27 +3,72 @@
   "WorkspaceRootPath": "C:\\Users\\naama\\source\\repos\\restaurant-orders-api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7BC8C5CD-788D-43F0-BB07-D860A0D04573}|restaurant-orders-api.csproj|c:\\users\\naama\\source\\repos\\restaurant-orders-api\\migrations\\20260621104811_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BC8C5CD-788D-43F0-BB07-D860A0D04573}|restaurant-orders-api.csproj|solutionrelative:migrations\\20260621104811_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7BC8C5CD-788D-43F0-BB07-D860A0D04573}|restaurant-orders-api.csproj|c:\\users\\naama\\source\\repos\\restaurant-orders-api\\migrations\\20260621130329_syncmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BC8C5CD-788D-43F0-BB07-D860A0D04573}|restaurant-orders-api.csproj|solutionrelative:migrations\\20260621130329_syncmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7BC8C5CD-788D-43F0-BB07-D860A0D04573}|restaurant-orders-api.csproj|c:\\users\\naama\\source\\repos\\restaurant-orders-api\\restaurant-orders-api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{7BC8C5CD-788D-43F0-BB07-D860A0D04573}|restaurant-orders-api.csproj|solutionrelative:restaurant-orders-api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{7BC8C5CD-788D-43F0-BB07-D860A0D04573}|restaurant-orders-api.csproj|c:\\users\\naama\\source\\repos\\restaurant-orders-api\\models\\orderdish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BC8C5CD-788D-43F0-BB07-D860A0D04573}|restaurant-orders-api.csproj|solutionrelative:models\\orderdish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC8C5CD-788D-43F0-BB07-D860A0D04573}|restaurant-orders-api.csproj|c:\\users\\naama\\source\\repos\\restaurant-orders-api\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BC8C5CD-788D-43F0-BB07-D860A0D04573}|restaurant-orders-api.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC8C5CD-788D-43F0-BB07-D860A0D04573}|restaurant-orders-api.csproj|c:\\users\\naama\\source\\repos\\restaurant-orders-api\\models\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BC8C5CD-788D-43F0-BB07-D860A0D04573}|restaurant-orders-api.csproj|solutionrelative:models\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC8C5CD-788D-43F0-BB07-D860A0D04573}|restaurant-orders-api.csproj|c:\\users\\naama\\source\\repos\\restaurant-orders-api\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BC8C5CD-788D-43F0-BB07-D860A0D04573}|restaurant-orders-api.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7BC8C5CD-788D-43F0-BB07-D860A0D04573}|restaurant-orders-api.csproj|c:\\users\\naama\\source\\repos\\restaurant-orders-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7BC8C5CD-788D-43F0-BB07-D860A0D04573}|restaurant-orders-api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{7BC8C5CD-788D-43F0-BB07-D860A0D04573}|restaurant-orders-api.csproj|c:\\users\\naama\\source\\repos\\restaurant-orders-api\\migrations\\restaurantdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BC8C5CD-788D-43F0-BB07-D860A0D04573}|restaurant-orders-api.csproj|solutionrelative:migrations\\restaurantdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7BC8C5CD-788D-43F0-BB07-D860A0D04573}|restaurant-orders-api.csproj|c:\\users\\naama\\source\\repos\\restaurant-orders-api\\data\\restaurantdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BC8C5CD-788D-43F0-BB07-D860A0D04573}|restaurant-orders-api.csproj|solutionrelative:data\\restaurantdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7BC8C5CD-788D-43F0-BB07-D860A0D04573}|restaurant-orders-api.csproj|c:\\users\\naama\\source\\repos\\restaurant-orders-api\\profiles\\dishprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BC8C5CD-788D-43F0-BB07-D860A0D04573}|restaurant-orders-api.csproj|solutionrelative:profiles\\dishprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC8C5CD-788D-43F0-BB07-D860A0D04573}|restaurant-orders-api.csproj|c:\\users\\naama\\source\\repos\\restaurant-orders-api\\repositories\\dishrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BC8C5CD-788D-43F0-BB07-D860A0D04573}|restaurant-orders-api.csproj|solutionrelative:repositories\\dishrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC8C5CD-788D-43F0-BB07-D860A0D04573}|restaurant-orders-api.csproj|c:\\users\\naama\\source\\repos\\restaurant-orders-api\\repositories\\idishrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BC8C5CD-788D-43F0-BB07-D860A0D04573}|restaurant-orders-api.csproj|solutionrelative:repositories\\idishrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC8C5CD-788D-43F0-BB07-D860A0D04573}|restaurant-orders-api.csproj|c:\\users\\naama\\source\\repos\\restaurant-orders-api\\services\\dishservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BC8C5CD-788D-43F0-BB07-D860A0D04573}|restaurant-orders-api.csproj|solutionrelative:services\\dishservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC8C5CD-788D-43F0-BB07-D860A0D04573}|restaurant-orders-api.csproj|c:\\users\\naama\\source\\repos\\restaurant-orders-api\\controllers\\dishescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BC8C5CD-788D-43F0-BB07-D860A0D04573}|restaurant-orders-api.csproj|solutionrelative:controllers\\dishescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7BC8C5CD-788D-43F0-BB07-D860A0D04573}|restaurant-orders-api.csproj|c:\\users\\naama\\source\\repos\\restaurant-orders-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{7BC8C5CD-788D-43F0-BB07-D860A0D04573}|restaurant-orders-api.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC8C5CD-788D-43F0-BB07-D860A0D04573}|restaurant-orders-api.csproj|c:\\users\\naama\\source\\repos\\restaurant-orders-api\\services\\idishservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BC8C5CD-788D-43F0-BB07-D860A0D04573}|restaurant-orders-api.csproj|solutionrelative:services\\idishservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC8C5CD-788D-43F0-BB07-D860A0D04573}|restaurant-orders-api.csproj|c:\\users\\naama\\source\\repos\\restaurant-orders-api\\dtos\\dishcreateupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BC8C5CD-788D-43F0-BB07-D860A0D04573}|restaurant-orders-api.csproj|solutionrelative:dtos\\dishcreateupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC8C5CD-788D-43F0-BB07-D860A0D04573}|restaurant-orders-api.csproj|c:\\users\\naama\\source\\repos\\restaurant-orders-api\\dtos\\dishdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BC8C5CD-788D-43F0-BB07-D860A0D04573}|restaurant-orders-api.csproj|solutionrelative:dtos\\dishdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC8C5CD-788D-43F0-BB07-D860A0D04573}|restaurant-orders-api.csproj|c:\\users\\naama\\source\\repos\\restaurant-orders-api\\data\\restaurantdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BC8C5CD-788D-43F0-BB07-D860A0D04573}|restaurant-orders-api.csproj|solutionrelative:data\\restaurantdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -33,8 +78,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -42,27 +91,122 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "20260621104811_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\naama\\source\\repos\\restaurant-orders-api\\Migrations\\20260621104811_InitialCreate.cs",
-              "RelativeDocumentMoniker": "Migrations\\20260621104811_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\naama\\source\\repos\\restaurant-orders-api\\Migrations\\20260621104811_InitialCreate.cs",
-              "RelativeToolTip": "Migrations\\20260621104811_InitialCreate.cs",
+              "Title": "20260621130329_SyncModels.cs",
+              "DocumentMoniker": "C:\\Users\\naama\\source\\repos\\restaurant-orders-api\\Migrations\\20260621130329_SyncModels.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260621130329_SyncModels.cs",
+              "ToolTip": "C:\\Users\\naama\\source\\repos\\restaurant-orders-api\\Migrations\\20260621130329_SyncModels.cs",
+              "RelativeToolTip": "Migrations\\20260621130329_SyncModels.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-21T10:48:16.491Z",
+              "WhenOpened": "2026-06-21T13:03:41.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IDishRepository.cs",
+              "DocumentMoniker": "C:\\Users\\naama\\source\\repos\\restaurant-orders-api\\Repositories\\IDishRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IDishRepository.cs",
+              "ToolTip": "C:\\Users\\naama\\source\\repos\\restaurant-orders-api\\Repositories\\IDishRepository.cs",
+              "RelativeToolTip": "Repositories\\IDishRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T12:39:43.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DishProfile.cs",
+              "DocumentMoniker": "C:\\Users\\naama\\source\\repos\\restaurant-orders-api\\Profiles\\DishProfile.cs",
+              "RelativeDocumentMoniker": "Profiles\\DishProfile.cs",
+              "ToolTip": "C:\\Users\\naama\\source\\repos\\restaurant-orders-api\\Profiles\\DishProfile.cs",
+              "RelativeToolTip": "Profiles\\DishProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T12:38:30.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderDish.cs",
+              "DocumentMoniker": "C:\\Users\\naama\\source\\repos\\restaurant-orders-api\\Models\\OrderDish.cs",
+              "RelativeDocumentMoniker": "Models\\OrderDish.cs",
+              "ToolTip": "C:\\Users\\naama\\source\\repos\\restaurant-orders-api\\Models\\OrderDish.cs",
+              "RelativeToolTip": "Models\\OrderDish.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T12:32:47.085Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\naama\\source\\repos\\restaurant-orders-api\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "C:\\Users\\naama\\source\\repos\\restaurant-orders-api\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T12:32:34.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\naama\\source\\repos\\restaurant-orders-api\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\naama\\source\\repos\\restaurant-orders-api\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-21T10:34:02.115Z",
+              "WhenOpened": "2026-06-21T12:49:04.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\naama\\source\\repos\\restaurant-orders-api\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Users\\naama\\source\\repos\\restaurant-orders-api\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T12:32:07.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RestaurantDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\naama\\source\\repos\\restaurant-orders-api\\Migrations\\RestaurantDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\RestaurantDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\naama\\source\\repos\\restaurant-orders-api\\Migrations\\RestaurantDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\RestaurantDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T12:49:47.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dish.cs",
+              "DocumentMoniker": "C:\\Users\\naama\\source\\repos\\restaurant-orders-api\\Models\\Dish.cs",
+              "RelativeDocumentMoniker": "Models\\Dish.cs",
+              "ToolTip": "C:\\Users\\naama\\source\\repos\\restaurant-orders-api\\Models\\Dish.cs",
+              "RelativeToolTip": "Models\\Dish.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T12:32:21.943Z",
               "EditorCaption": ""
             },
             {
@@ -71,20 +215,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "restaurant-orders-api.csproj",
-              "DocumentMoniker": "C:\\Users\\naama\\source\\repos\\restaurant-orders-api\\restaurant-orders-api.csproj",
-              "RelativeDocumentMoniker": "restaurant-orders-api.csproj",
-              "ToolTip": "C:\\Users\\naama\\source\\repos\\restaurant-orders-api\\restaurant-orders-api.csproj",
-              "RelativeToolTip": "restaurant-orders-api.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-06-21T09:47:40.902Z",
+              "DocumentIndex": 8,
+              "Title": "DishRepository.cs",
+              "DocumentMoniker": "C:\\Users\\naama\\source\\repos\\restaurant-orders-api\\Repositories\\DishRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\DishRepository.cs",
+              "ToolTip": "C:\\Users\\naama\\source\\repos\\restaurant-orders-api\\Repositories\\DishRepository.cs",
+              "RelativeToolTip": "Repositories\\DishRepository.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T12:40:26.801Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DishService.cs",
+              "DocumentMoniker": "C:\\Users\\naama\\source\\repos\\restaurant-orders-api\\Services\\DishService.cs",
+              "RelativeDocumentMoniker": "Services\\DishService.cs",
+              "ToolTip": "C:\\Users\\naama\\source\\repos\\restaurant-orders-api\\Services\\DishService.cs",
+              "RelativeToolTip": "Services\\DishService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T12:42:41.805Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -92,41 +245,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Microsoft.NET.Sdk.DefaultItems.Shared.targets",
-              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets",
-              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets",
-              "ViewState": "AgIAAKsAAAAAAAAAAAD4v70AAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2026-06-21T09:54:22.438Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "RestaurantDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\naama\\source\\repos\\restaurant-orders-api\\Data\\RestaurantDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\RestaurantDbContext.cs",
-              "ToolTip": "C:\\Users\\naama\\source\\repos\\restaurant-orders-api\\Data\\RestaurantDbContext.cs",
-              "RelativeToolTip": "Data\\RestaurantDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "DishesController.cs",
+              "DocumentMoniker": "C:\\Users\\naama\\source\\repos\\restaurant-orders-api\\Controllers\\DishesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DishesController.cs",
+              "ToolTip": "C:\\Users\\naama\\source\\repos\\restaurant-orders-api\\Controllers\\DishesController.cs",
+              "RelativeToolTip": "Controllers\\DishesController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwDsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-21T09:45:59.055Z",
+              "WhenOpened": "2026-06-21T12:43:55.195Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\naama\\source\\repos\\restaurant-orders-api\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "C:\\Users\\naama\\source\\repos\\restaurant-orders-api\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-06-21T09:27:19.773Z",
+              "WhenOpened": "2026-06-21T12:43:39.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IDishService.cs",
+              "DocumentMoniker": "C:\\Users\\naama\\source\\repos\\restaurant-orders-api\\Services\\IDishService.cs",
+              "RelativeDocumentMoniker": "Services\\IDishService.cs",
+              "ToolTip": "C:\\Users\\naama\\source\\repos\\restaurant-orders-api\\Services\\IDishService.cs",
+              "RelativeToolTip": "Services\\IDishService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T12:42:08.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DishCreateUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\naama\\source\\repos\\restaurant-orders-api\\DTOs\\DishCreateUpdateDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\DishCreateUpdateDto.cs",
+              "ToolTip": "C:\\Users\\naama\\source\\repos\\restaurant-orders-api\\DTOs\\DishCreateUpdateDto.cs",
+              "RelativeToolTip": "DTOs\\DishCreateUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T12:37:49.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DishDto.cs",
+              "DocumentMoniker": "C:\\Users\\naama\\Source\\Repos\\restaurant-orders-api\\DTOs\\DishDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\DishDto.cs",
+              "ToolTip": "C:\\Users\\naama\\Source\\Repos\\restaurant-orders-api\\DTOs\\DishDto.cs",
+              "RelativeToolTip": "DTOs\\DishDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T12:36:36.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RestaurantDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\naama\\source\\repos\\restaurant-orders-api\\Data\\RestaurantDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\RestaurantDbContext.cs",
+              "ToolTip": "C:\\Users\\naama\\source\\repos\\restaurant-orders-api\\Data\\RestaurantDbContext.cs",
+              "RelativeToolTip": "Data\\RestaurantDbContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA8wCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T12:33:02.36Z",
               "EditorCaption": ""
             }
           ]

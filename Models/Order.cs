@@ -4,9 +4,8 @@
     {
         public int Id { get; set; }
         public DateTime OrderDate { get; set; }
-        public string CustomerName { get; set; }
+        public string CustomerName { get; set; } = string.Empty;
         public decimal TotalAmount { get; set; }
-
-        public ICollection<OrderDish> OrderDishes { get; set; }
+        public ICollection<OrderDish> OrderDishes { get; set; } = new List<OrderDish>();
     }
 }

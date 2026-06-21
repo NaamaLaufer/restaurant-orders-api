@@ -136,3 +136,9 @@ C:\Users\naama\source\repos\restaurant-orders-api\obj\Debug\net8.0\refint\restau
 C:\Users\naama\source\repos\restaurant-orders-api\obj\Debug\net8.0\restaurant-orders-api.pdb
 C:\Users\naama\source\repos\restaurant-orders-api\obj\Debug\net8.0\restaurant-orders-api.genruntimeconfig.cache
 C:\Users\naama\source\repos\restaurant-orders-api\obj\Debug\net8.0\ref\restaurant-orders-api.dll
+C:\Users\naama\Source\Repos\restaurant-orders-api\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\naama\Source\Repos\restaurant-orders-api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\naama\Source\Repos\restaurant-orders-api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\naama\Source\Repos\restaurant-orders-api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\naama\Source\Repos\restaurant-orders-api\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\naama\Source\Repos\restaurant-orders-api\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll

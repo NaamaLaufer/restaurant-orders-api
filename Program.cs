@@ -6,7 +6,9 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 
 builder.Services.AddControllers();
-
+builder.Services.AddAutoMapper(cfg => { }, typeof(Program)); 
+builder.Services.AddScoped<restaurant_orders_api.Repositories.IDishRepository, restaurant_orders_api.Repositories.DishRepository>();
+builder.Services.AddScoped<restaurant_orders_api.Services.IDishService, restaurant_orders_api.Services.DishService>();
 builder.Services.AddDbContext<RestaurantDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
