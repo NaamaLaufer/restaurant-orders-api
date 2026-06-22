@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net8.0</TargetFramework>
+		<Nullable>enable</Nullable>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<RootNamespace>restaurant_orders_api</RootNamespace>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="AutoMapper" Version="16.1.1" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\RestaurantOrders.Domain\RestaurantOrders.Domain.csproj" />
+		<ProjectReference Include="..\RestaurantOrders.Repository\RestaurantOrders.Repository.csproj" />
+	</ItemGroup>
+
+</Project>
